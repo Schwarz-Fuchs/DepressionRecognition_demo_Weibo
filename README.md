@@ -1,4 +1,4 @@
-# depression_classification_task_demo (Weibo)
+# depression_recognition_demo (Weibo)
 
 非常不成熟的本科毕业设计
 
