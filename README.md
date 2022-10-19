@@ -1,6 +1,6 @@
 # depression_recognition_demo (Weibo)
 
-非常不成熟的本科毕业设计
+须知：非常不成熟的设计
 
 使用微博用户抑郁症检测数据集中部分数据（Weibo User Depression Detection Dataset） https://github.com/aidenwang9867/Weibo-User-Depession-Detection-Dataset
 
